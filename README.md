@@ -3,3 +3,8 @@
 * 1.地理数据的生产，来源：http://www.ourd3js.com/wordpress/, http://geojson.io/#map=7/31.147/118.784
 * 2.导入收集污染数据集
 * 3.echarts生成图
+
+
+## 可视化引用js
+* 1.百度echarts
+* 2.google charts[https://developers.google.cn/chart/]
